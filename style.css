@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(137, 150, 140);
+    font-family: 'Franklin Gothic light', "arial narrow" , Arial, sans-serif;
+    word-spacing: 10px; 
+    font-weight: lighter;
+}
+
+
+h1.f{
+    color: rgb(20, 116, 103);
+    font-weight: 850;
+    text-align: right;
+    text-transform: uppercase;
+    letter-spacing: 50px;
+    font-size: 300%;
+}
+p.p1{
+    line-height: 25pt;
+    font-size: 160%;
+}
+
+img.fiore{
+    float: left;
+    width: 200pt;
+    height: 250pt;
+
+}
+h2.header{
+    color: white;
+    background-color: rgba(64, 80, 49, 0.733);
+    font-weight: bold;
+    font-size: 250%;
+}
+
+div.croce{
+    text-align: center;
+    
+}
+
+img.croce{
+    width: 250pt;
+    height: 250pt;
+}
+
+p.novella{
+    float: right;
+    
+}
+
+img.nov{
+    width: 250pt;
+    height: 250pt;
+}
+
+div#adress{
+    font-weight: normal;
+    clear: right;
+    font-size: 130%;
+}
